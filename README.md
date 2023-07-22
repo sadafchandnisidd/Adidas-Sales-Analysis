@@ -20,15 +20,15 @@ By examining the sales data, we aim to understand factors influencing sales, ide
   6. West Gear is the top profitable retailer of adidas
 
 # Recommendation 
-   1.Increase production for Street Footwear.
+   1. Increase production for Street Footwear.
    
-   2.Improve strategy(discounts, digital marketing) to increase online sales.
+   2. Improve strategy(discounts, digital marketing) to increase online sales.
    
-   3.Give attractive offers in months of Qtr4 (seasonal sales).
+   3. Give attractive offers in months of Qtr4 (seasonal sales).
    
-   4.List more products on Amazon and Walmart.
+   4. List more products on Amazon and Walmart.
    
-   5.Add more product categories in in-store.
+   5. Add more product categories in in-store.
 
    
    
